@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a01fe60f-fe90-4d6e-85e2-4e9b59e50034" name="Changes" comment="afterLesson" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DavitOhan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="221b1ac6-5acd-4d13-a9f2-c92937649e5f" />
+        <option name="url" value="https://github.com/DavitOhan/Phonebook" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2clPbcWDygE2KH9kdHfwiqzf3ZN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.CreateAccountTests.creatExistedAccountNegativeTest.executor": "Run",
+    "TestNG.CreateAccountTests.creatNewAccountPositiveTest.executor": "Run",
+    "TestNG.HomePageTests.isHomeComponentPresentTest.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.CreateAccountTests.creatExistedAccountNegativeTest">
+    <configuration name="CreateAccountTests.creatExistedAccountNegativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Phonebook.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phonebook.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.phonebook.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.phonebook.tests.CreateAccountTests" />
+      <option name="METHOD_NAME" value="creatExistedAccountNegativeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateAccountTests.creatNewAccountPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Phonebook.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phonebook.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.phonebook.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.phonebook.tests.CreateAccountTests" />
+      <option name="METHOD_NAME" value="creatNewAccountPositiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTests.isHomeComponentPresentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Phonebook.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phonebook.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.phonebook.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.phonebook.tests.HomePageTests" />
+      <option name="METHOD_NAME" value="isHomeComponentPresentTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CreateAccountTests.creatExistedAccountNegativeTest" />
+        <item itemvalue="TestNG.CreateAccountTests.creatNewAccountPositiveTest" />
+        <item itemvalue="TestNG.HomePageTests.isHomeComponentPresentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a01fe60f-fe90-4d6e-85e2-4e9b59e50034" name="Changes" comment="" />
+      <created>1708683266771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708683266771</updated>
+      <workItem from="1708683268064" duration="6571000" />
+    </task>
+    <task id="LOCAL-00001" summary="afterLesson">
+      <option name="closed" value="true" />
+      <created>1708690234746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708690234746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="after lesson" />
+    <MESSAGE value="afterLesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="afterLesson" />
+  </component>
+</project>
